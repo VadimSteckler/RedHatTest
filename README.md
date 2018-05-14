@@ -13,7 +13,7 @@ Upon arriving at the petrol station, consider these 3 points that are vital for 
 
     Knowing this is necessary for correctly pulling up to a pump. To check which side the fuel cap is on without leaving your car, look closely at the fuel gauge on your dashboard. Near the gauge, there is a fuel pump icon similar to the following:
     
-    ![Figure 1](images/RH_test_1.jpg)
+    ![Figure 1](RH_test_1.jpg)
     
     The triangle in this icon indicates the location of the fuel cap relative to the driver’s position at the wheel.
     
@@ -43,7 +43,7 @@ Having considered all of the above points, proceed with the following steps.
 
 6.	Once the nozzle is in the hole firmly, squeeze the handle, as shown in the graphic below:
 
-    ![Figure 2](images/RH_test_2.jpg)
+    ![Figure 2](RH_test_2.jpg)
 
     Fuel will start flowing out of the pump into your fuel tank.
 
