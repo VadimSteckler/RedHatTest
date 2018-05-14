@@ -41,7 +41,7 @@ Having considered all of the above points, proceed with the following steps.
 
 5.	Lift the pump handle and insert the nozzle into the fuel cap.
 
-6.	Once the nozzle is in the hole firmly, squeeze the handle, as shown in the graphic below:
+6.	Once the nozzle is in the hole firmly, squeeze the handle, as shown below:
 
     ![Figure 2](RH_test_2.jpg)
 
