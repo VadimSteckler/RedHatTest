@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## How to Refuel a Car
 
-You can use the [editor on GitHub](https://github.com/VadimSteckler/RedHatTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Refueling is an essential car maintenance task. As ordinary as it may seem, it requires a thorough understanding and precise execution. Before embarking on your refueling journey, familiarize yourself with this document. It starts with the fundamental preliminary considerations and then provides in-depth instructions for error-free and efficient refueling.
 
 ### Markdown
 
