@@ -26,11 +26,11 @@ Having considered all of the above points, proceed with the following steps.
 
 1.	Pull up at the suitable fuel pump by making sure that:
 
-- The fuel cap is facing the pump
+    - The fuel cap is facing the pump
 
-- The car side is about half a meter from the pump
+    - The car side is about half a meter from the pump
 
-- The car nose is lined up with the end of the pump.
+    - The car nose is lined up with the end of the pump.
 
 2.	Pull the handbrake on, shift into neutral, and turn off the engine.
 
